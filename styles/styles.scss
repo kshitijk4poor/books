@@ -19,7 +19,8 @@ body{
     display: flex;
     flex-direction:column;
     justify-content: center;
-    background-image: url("bg.png");
+    background-image: url("../bg.png");
+    background-size: cover;
 }
 h1{
     font-family: AkzidenzGrotesk;
