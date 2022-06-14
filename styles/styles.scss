@@ -11,17 +11,20 @@
     src: url(fonts/akzidenz-Grotesk-bold.ttf);
     font-weight: 600px;
   }
-  html{
-    background-color: #141525;
+  html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
   }
-body{
-    margin:0;
-    display: flex;
-    flex-direction:column;
-    justify-content: center;
+  body {
     background-image: url("../bg.png");
     background-size: cover;
-}
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+  }
 h1{
     font-family: AkzidenzGrotesk;
     font-weight: 600px;
