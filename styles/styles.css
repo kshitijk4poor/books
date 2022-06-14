@@ -23,7 +23,7 @@ html, body {
 }
 
 body {
-  background-image: url("../bg.png");
+  background-image: url("../bg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
