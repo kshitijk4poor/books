@@ -1,16 +1,16 @@
 @font-face {
   font-family: cirka;
-  src: url(fonts/cirka-light.otf);
+  src: url(../fonts/Cirka-Light.otf);
 }
 
 @font-face {
   font-family: AkzidenzGrotesk;
-  src: url(fonts/akzidenz-Grotesk-light.ttf);
+  src: url(../fonts/Akzidenz-grotesk-light.ttf);
 }
 
 @font-face {
   font-family: AkzidenzGrotesk;
-  src: url(fonts/akzidenz-Grotesk-bold.ttf);
+  src: url(../fonts/Akzidenz-grotesk-bold.ttf);
   font-weight: 600px;
 }
 
